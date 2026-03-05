@@ -1,9 +1,9 @@
 # Hello Mahmoud is here 👋
 
-🎓 Information Technology (IT) Student 
-💻 Full-Stack Developer | Web & Mobile Applications 
-⚙️ Building scalable backend systems & modern user interfaces
-🔥 I turn ideas into real-world digital solutions 
+🎓 Information Technology (IT) Student <br>
+💻 Full-Stack Developer | Web & Mobile Applications <br>
+⚙️ Building scalable backend systems & modern user interfaces <br>
+🔥 I turn ideas into real-world digital solutions <br>
 
 
 ## 🛠️ Tech Stack
