@@ -24,3 +24,7 @@
 ## 📬 Contact
 
 feel free to reach out via email: [eng.mahmoudfrh@gmail.com](mailto:eng.mahmoudfrh@gmail.com)
+
+[![Discord](https://img.shields.io/badge/Discord-Message%20Me-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1221047221378744343)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Chat%20Now-26A5E4?logo=telegram&logoColor=white)](https://t.me/MahmoudFrh)
