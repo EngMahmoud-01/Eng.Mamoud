@@ -8,15 +8,19 @@
 
 ## 🛠️ Tech Stack
 
-📱 Mobile Development: Dart, Flutter  <br>
-🌐 Web Development: HTML, CSS, JavaScript  <br>
-⚙️ Backend Development: PHP  <br>
-🗄️ Database: MySQL  <br>
-🎨 UI/UX Design: Figma  <br>
-💻 Desktop Applications: Java (GUI) <br>
+📱 Mobile Development: Dart, Flutter  <br> <br>
+🌐 Web Development: HTML, CSS, JavaScript  <br> <br>
+⚙️ Backend Development: PHP  <br> <br>
+🗄️ Database: MySQL  <br> <br>
+🎨 UI/UX Design: Figma  <br> <br>
+💻 Desktop Applications: Java (GUI) <br> <br>
 
 ### 🧰 Tools
-- Git <br>
-- GitHub <br>
-- VS Code <br>
-- phpMyAdmin <br>
+- Git <br> <br>
+- GitHub <br> <br>
+- VS Code <br> <br>
+- phpMyAdmin <br> <br>
+
+## 📬 Contact
+
+feel free to reach out via email: [eng.mahmoudfrh@gmail.com](mailto:eng.mahmoudfrh@gmail.com)
