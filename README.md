@@ -3,7 +3,7 @@
 🎓 Information Technology (IT) Student <br> <br>
 💻 Full-Stack Developer | Web & Mobile Applications <br> <br>
 ⚙️ Building scalable backend systems & modern user interfaces <br> <br>
-🔥 I turn ideas into real-world digital solutions <br> <br>
+🔥 I turn ideas into real-world <br> <br>
 
 
 ## 🛠️ Tech Stack
